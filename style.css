@@ -1,0 +1,15 @@
+.navbar {
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.nav-link:hover {
+    color: tomato;
+    font-size: large;
+}
+
