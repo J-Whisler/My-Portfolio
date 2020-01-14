@@ -1,15 +1,134 @@
 .navbar {
-    background-color: black;
+    background-image: url('../My-Portfolio/Assets/Images/mosaic/mosaic.png');
+    border-bottom: 5px solid #ffffff;
+}
+
+.navbar-toggler-icon {
     color: whitesmoke;
-    width: 100%;
+}
+
+.nav-color {
+    color: whitesmoke;
+}
+
+.heading {
+    color: whitesmoke;
+    margin-left: 7%;
+    border-bottom: 5px solid black;
+}
+
+.name {
+    color: whitesmoke;
+    padding-left: 15%;
+    font-size: 24px;
 }
 
 .nav-link {
     color: whitesmoke;
+    
 }
 
-.nav-link:hover {
-    color: tomato;
-    font-size: large;
+.card-img-top {
+    width: 10%;
+    
+}
+
+.collapse {
+    margin-right: 7%;
+}
+
+body {
+    background-image: url('../My-Portfolio/Assets/Images/grey_wash_wall/grey_wash_wall/grey_wash_wall.png');
+}
+
+/* .container {
+    color: whitesmoke;
+    text-align: center;
+    display: grid;
+    grid-gap: 5px;
+    height: fit-content;
+} */
+
+
+
+/* .card-container {
+    width: 80%;
+    height: 30%;
+    display: inline-block;
+    text-align: center;
+    justify-content: space-evenly;
+    
+} */
+
+.my-img {
+    width: 55%;
+    
+    margin-left: 15%;
+    float: left;
+}
+
+.form-group {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.submit {
+    margin: 1% 43%;
+}
+
+.card {
+    width: 15%;
+    height: 20%;
+    margin: 5% 5%;
+    
+    justify-content: space-around;
+    text-align: center;
+    
+   
+}
+
+.bottom-card-row {
+    margin-bottom: 10%;
+}
+
+.personal-links {
+    color: yellowgreen;
+}
+.personal {
+  
+    margin: auto 35.5%;
+}
+.personal-paragraph {
+    color: whitesmoke;
+}
+
+.personal-button {
+    background-color: darkslategray;
+    border: none;
+    border-radius: 5%;
+    box-shadow: darkslategray 2px 2px 2px;
+}
+
+.personal-button:hover {
+    background-color: deepskyblue;
+}
+
+.footer {
+    background-image: url('../My-Portfolio/Assets/Images/mosaic/mosaic.png');
+    color: grey;
+    text-align: center;
+    background-color: #666666;
+    border-top: 5px solid #ffffff;
+    padding: 0px;
+    width: 100%;
+    margin-top: 10%;
+    position: fixed;
+    bottom: 0;
+}
+
+
+.copy {
+    margin: 1.5% auto;
+    color: whitesmoke;
 }
 
